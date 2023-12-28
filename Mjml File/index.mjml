@@ -1,0 +1,38 @@
+<mjml>
+  <mj-body background-color="#e7e7e7">
+    <mj-section background-url="https://i.ibb.co/bLQW7L0/banner.png" background-repeat="no-repeat" background-size="cover">
+      <mj-column>
+        <mj-text padding-top="580px" color="#fff" text-transform="capitalize" align="center" font-size="18px" font-weight="300">you are our first choice</mj-text>
+        <mj-text padding-top="0px" padding-bottom="40px" text-transform="uppercase" align="center" font-size="45px" font-weight="500" color="#f4c668">lorem ipsum si</mj-text>
+        <mj-divider padding-bottom="10px" border-color="#323639" border-width="2px" width="80%"></mj-divider>
+        <mj-text align="center" color="#fff" text-transform="uppercase" font-size="25px" line-height="35px" font-weight="300">grab it or others will</mj-text>
+        <mj-divider padding-top="10px" padding-bottom="35px" border-color="#323639" border-width="2px" width="80%"></mj-divider>
+        <mj-text align="center" color="#fff" text-transform="capitalize" font-size="13px" font-weight="100" line-height="20px" padding-bottom="35px">sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullammco laboris nisi ut allquip ex ea commodo consequat. duis aute irure dolor in reprehenderit in voluptate velt esse cillum dolore eu fugiat nulla pariatur.</mj-text>
+        <mj-button href="#" background-color="transparent" border="1px solid #f4c668" font-size="16px" font-weight="300" text-transform="capitalize" inner-padding="13px 40px" color="#f4c668" padding-bottom="25px">shop now</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-top="35px" padding-bottom="0px">
+      <mj-column>
+        <mj-text font-size="25px" text-transform="capitalize" font-weight="400">thanks for the support! </mj-text>
+        <mj-text font-size="15px" font-weight="200" line-height="20px" text-transform="capitalize" padding-bottom="20px">lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor<br />incididunt ut laboreet. sed ut perspiciatis unde omnis iste natus error sit.</mj-text>
+        <mj-divider border-color="#b2b2b2" border-width="1px" padding-bottom="15px"></mj-divider>
+        <mj-text padding-bottom="0">
+          <div>
+            <a href="#"><img src="https://i.ibb.co/Jzw6HpX/facebook.png" style="width:30px;margin-right:5px" /></a>
+            <a href="#"><img src="https://i.ibb.co/9Hw5SYq/twitter.png" style="width:30px;margin-right:5px" /></a>
+            <a href="#"><img src="https://i.ibb.co/b7cB6LN/linkedin.png" style="width:30px;margin-right:5px" /></a>
+            <a href="#"><img src="https://i.ibb.co/K6hFwyn/instagram.png" style="width:30px;margin-right:5px" /></a>
+          </div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="25px" padding-top="10px" background-color="#fff">
+      <mj-column>
+        <mj-text align="left" text-transform="uppercase" font-size="12px" font-weight="200">unsubscribe &nbsp; | privacy policy &nbsp; | web</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image href="#" padding-top="10px" align="right" src="https://i.ibb.co/G3fQtyJ/made-logo.png" width="110px"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
